@@ -1,0 +1,10 @@
+_build
+RTE
+EventRecorderStub.scvd
+JLinkLog.txt
+JLinkSettings.ini
+Smart_Remote_3_nRF52_Bootloader_nRF52833.uvguix.Marcus
+Smart_Remote_3_nRF52_Firmware_nRF52832.uvguix.vizh
+Smart_Remote_3_nRF52_Firmware_nRF52832.uvoptx
+Output
+blinky_pca10040_mbr_Release.jlink

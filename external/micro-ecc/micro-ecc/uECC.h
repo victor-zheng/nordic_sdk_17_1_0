@@ -49,7 +49,7 @@ IMPORTANT: Keys and signatures generated with uECC_VLI_NATIVE_LITTLE_ENDIAN=1 ar
 with keys and signatures generated with uECC_VLI_NATIVE_LITTLE_ENDIAN=0; all parties must use
 the same endianness. */
 #ifndef uECC_VLI_NATIVE_LITTLE_ENDIAN
-    #define uECC_VLI_NATIVE_LITTLE_ENDIAN 0
+    #define uECC_VLI_NATIVE_LITTLE_ENDIAN 1
 #endif
 
 /* Curve support selection. Set to 0 to remove that curve. */
