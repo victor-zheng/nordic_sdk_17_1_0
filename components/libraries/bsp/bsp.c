@@ -410,12 +410,13 @@ static uint32_t bsp_led_indication(bsp_indication_t indicate)
 
         case BSP_INDICATE_USER_STATE_2:
             leds_off();
-            bsp_board_led_on(BSP_LED_INDICATE_USER_LED1);
-            bsp_board_led_on(BSP_LED_INDICATE_USER_LED2);
+            bsp_board_led_on(BSP_LED_INDICATE_USER_LED1);  
             m_stable_state = indicate;
             break;
 
         case BSP_INDICATE_USER_STATE_3:
+            leds_off();
+            break;
 
         case BSP_INDICATE_USER_STATE_ON:
             bsp_board_leds_on();

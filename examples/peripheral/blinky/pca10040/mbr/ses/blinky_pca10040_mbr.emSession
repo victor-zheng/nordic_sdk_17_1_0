@@ -40,9 +40,9 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="69" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="74" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="48" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="95" useTextEdit="1" openedFrom="C:/nordic/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.c" selected="0" top="82" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" openedFrom="C:/nordic/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/pca10040.h" selected="0" top="36" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="blinky_pca10040_mbr" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="blinky_pca10040_mbr" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
